@@ -1,11 +1,3 @@
-- 👋 Hi, I’m @GianiRanzetti
-- 👨‍🎓 I’m a Masters student in Finance
-- 🌱 I’m passionate about finacial model building
-- 💹 I’m looking to create programming solutions to financial problems
-- 📫 How to reach me at gianiranzetti1@gmail.com
-- 🌍 Based in Europe
+👋 Hi, I’m a Double Masters student in Finance at Bocconi and NOVA SBE, specialising in quantititive finance. I obtained my Bachelor in Economics at the university of Amsterdam. My main interests are Algorithmic Trading, Derivative Pricing Models and Asset Allocation Solutions. My repositories are comprised of personal, university and professional projects.
 
-<!---
-GianiRanzetti/GianiRanzetti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I can be reached at gianiranzetti1@gmail.com
